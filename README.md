@@ -1,6 +1,6 @@
 PRIVACY NOTICE
 
-Last updated March 28, 2024
+Last updated March 28, 2026
 
 
 
@@ -104,7 +104,6 @@ In Short: We may share information in specific situations described in this sect
 
 We may need to share your personal information in the following situations:
 Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
-When we use Google Analytics. We may share your information with Google Analytics to track and analyze the use of the Services. The Google Analytics Advertising Features that we may use include: Remarketing with Google Analytics and Google Analytics Demographics and Interests Reporting. To opt out of being tracked by Google Analytics across the Services, visit https://tools.google.com/dlpage/gaoptout. You can opt out of Google Analytics Advertising Features through Ads Settings and Ad Settings for mobile apps. Other opt out means include http://optout.networkadvertising.org/ and http://www.networkadvertising.org/mobile-choice. For more information on the privacy practices of Google, please visit the Google Privacy & Terms page.
 
 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
@@ -178,7 +177,7 @@ NO
 G. Geolocation data
 Device location
 
-NO
+YES
 
 H. Audio, electronic, visual, thermal, olfactory, or similar information
 Images and audio, video or call recordings created in connection with our business activities
